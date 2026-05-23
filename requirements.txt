@@ -1,0 +1,1 @@
+"selenium\npytest\npytest-html\nwebdriver-manager" 
